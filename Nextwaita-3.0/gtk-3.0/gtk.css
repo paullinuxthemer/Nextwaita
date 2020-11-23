@@ -3529,7 +3529,7 @@ window.background:not(.csd):not(.solid-csd) > grid.horizontal > grid.horizontal:
 window.background:not(.csd):not(.solid-csd) > grid.horizontal > grid.horizontal > button.flat.small-button, window.background:not(.csd):not(.solid-csd) > grid.horizontal > grid.horizontal > button.small-button.sidebar-button {
 
   color: rgba(40,40,40, 0.8);
-  border: none;title
+  border: none;
   border-radius: 50px;
   background-image: none; }
 
