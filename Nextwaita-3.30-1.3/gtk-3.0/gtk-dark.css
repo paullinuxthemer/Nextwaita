@@ -1852,7 +1852,7 @@ scale slider:backdrop {
 transition: 200ms ease-out; 
 border-color: #404040; 
 background-image: image(#404040); 
-text-shadow: none; -gtk-icon-shadw: none; 
+text-shadow: none; -gtk-icon-shadow: none; 
 box-shadow: inset 0 1px rgba(255, 255, 255, 0); }
 
 scale slider:backdrop label, scale slider:backdrop { color: #919190; }
@@ -2650,7 +2650,7 @@ cursor-handle {
   cursor-handle.top {
     -gtk-icon-source: -gtk-icontheme("selection-start-symbolic"); }
   cursor-handle.bottom {
-    -gtk-icon-source: -gtk-icontheme("selection-end-symbolic"); } }
+    -gtk-icon-source: -gtk-icontheme("selection-end-symbolic"); }
 
 .context-menu { font: initial; }
 
